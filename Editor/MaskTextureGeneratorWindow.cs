@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 class MaskTextureGeneratorWindow : EditorWindow
 {
-    [MenuItem("Window/GreenDefender/MaskTextureGenerator")]
+    [MenuItem("Window/MaskHelper/MaskTextureGenerator")]
     static void OpenWindow()
     {
         MaskTextureGeneratorWindow ww = GetWindow<MaskTextureGeneratorWindow>();
